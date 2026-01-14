@@ -34,6 +34,6 @@ _インタラクションデザイナー_
 
 この講師の他のコースを視聴する：[LinkedInラーニング](https://www.linkedin.com/learning/instructors/8515347)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-course-url]: https://www.linkedin.com/learning/web-programming-with-github-copilot
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQE1-09fGPgyWQ/learning-public-crop_675_1200/B4EZu9zQyPJ0Ac-/0/1768415890983?e=2147483647&v=beta&t=XXbsL6jX-6kxH-OsotNIp-zsELOFufs7MsIzytfCsUE
 
